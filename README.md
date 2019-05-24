@@ -14,3 +14,11 @@ This is an attempt to simulate forest fires. Given a certain probability of plan
 ```
 2. Open folder nbproject/ForestFireSimulator in Netbeans.
 3. Execute project.
+
+### (Optional) Run in terminal:
+```bash
+  sudo apt-get install ant
+  ant compile
+  ant jar
+```
+
